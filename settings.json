@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GODADMC.aternos.me:23219",
+    "ip": "GODADMC.aternos.me",
     "port": 23219,
     "version": "",
     "try-creative": false
